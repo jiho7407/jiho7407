@@ -1,4 +1,8 @@
-# Junior Developer
+# Hi there!
+
+## Junior Developer
+
+[![My Skills](https://skillicons.dev/icons?i=html,css, svelte, c++, python)](https://skillicons.dev)
 
 ## Problem solving
 
