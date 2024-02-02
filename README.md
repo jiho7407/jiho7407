@@ -2,6 +2,7 @@
 
 ## Problem solving
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlgh7407)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlgh7407&theme=warm)
 
 ## Frontend
