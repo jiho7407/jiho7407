@@ -1,10 +1,16 @@
-### Hi there 👋
+# Developer
 
-초보 개발자
-
-Python, FastAPI
+## Problem solving
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlgh7407&theme=warm)
+
+## Frontend
+
+#### Svelte
+
+## Backend
+
+#### FastAPI
 <!--
 **jiho7407/jiho7407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
