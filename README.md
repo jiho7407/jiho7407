@@ -1,21 +1,27 @@
-# Hi there!
+# 안녕하세요!
 
 ## Junior Developer
 
-![My Skills](https://skillicons.dev/icons?i=html,css, svelte, c++, python)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github)](https://skillicons.dev)
 
 ## Problem solving
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlgh7407)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgh7407)](https://solved.ac/wlgh7407) 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlgh7407&theme=warm)
 
 ## Frontend
 
-#### Svelte
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,bootstrap)](https://skillicons.dev)
 
 ## Backend
 
-#### FastAPI
+[![My Skills](https://skillicons.dev/icons?i=fastapi,supabase,sqlite,postgresql,aws)](https://skillicons.dev)
+
+## Machine Learning
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
+
 <!--
 **jiho7407/jiho7407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
