@@ -4,6 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho7407&layout=compact)
+
 ## Problem solving
 
 [![Solved.ac
