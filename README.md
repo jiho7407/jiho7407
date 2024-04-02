@@ -6,6 +6,27 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho7407&layout=compact)
 
+## Organization
+
+- Yonsei University  | Mar. 2020 – current
+  - Urban Engineering
+
+- ICPC SINCHON | Jan. 2024 - current
+  - Member
+
+- PlayIdeaLab | Jan. 2024 - current
+  - R&D Team
+  - Engineer
+
+## Archivements
+
+- 2023 Construction Site Safety Data AI Hackathon, Korea Intelligent Information Society Agency : Category 2 | Dec 2023
+  - Winner
+
+- SUAPC 2024 Winter, ICPC Sinchon | Feb 2024
+  - 6th Place
+
+
 ## Problem solving
 
 [![Solved.ac
