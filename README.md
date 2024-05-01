@@ -13,6 +13,7 @@
 
 - ICPC SINCHON | Jan. 2024 - current
   - Member
+  - Manager | Apr. 2024 - 
 
 - PlayIdeaLab | Jan. 2024 - current
   - R&D Team
