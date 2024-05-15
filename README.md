@@ -13,13 +13,13 @@
 
 - ICPC SINCHON | Jan. 2024 - current
   - Member
-  - Manager | Apr. 2024 - 
+  - Manager | Apr. 2024 -
 
-- PlayIdeaLab | Jan. 2024 - current
+- PlayIdeaLab | Jan. 2024 - May.2024
   - R&D Team
   - Engineer
 
-## Archivements
+## Achivements
 
 - 2023 Construction Site Safety Data AI Hackathon, Korea Intelligent Information Society Agency : Category 2 | Dec 2023
   - Winner
