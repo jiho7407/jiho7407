@@ -26,6 +26,9 @@
 
 - SUAPC 2024 Winter, ICPC Sinchon | Feb 2024
   - 6th Place
+ 
+- SCPC 2024 | Aug 2024
+  - Finalist
 
 
 ## Problem solving
