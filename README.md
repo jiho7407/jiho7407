@@ -30,6 +30,9 @@
 - SCPC 2024 | Aug 2024
   - Finalist
 
+- SUAPC 2024 Summer, ICPC Sinchon | Aug 2024
+  - 4th Place
+
 
 ## Problem solving
 
