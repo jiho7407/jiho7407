@@ -39,6 +39,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgh7407)](https://solved.ac/wlgh7407) 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlgh7407&theme=warm)
+[![CodeForces Profile](https://cf.leed.at?id=wlgh7407)](https://codeforces.com/profile/wlgh7407)
 
 ## Frontend
 
