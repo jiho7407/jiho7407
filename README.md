@@ -14,6 +14,7 @@
 - ICPC SINCHON | Jan. 2024 - current
   - Member
   - Manager | Apr. 2024 -
+  - Novice Instructor | 24S Season  
 
 - PlayIdeaLab | Jan. 2024 - May.2024
   - R&D Team
@@ -32,6 +33,17 @@
 
 - SUAPC 2024 Summer, ICPC Sinchon | Aug 2024
   - 4th Place
+ 
+- ICPC 2024 Seoul Nationalwide Internet Competition | Oct 2024  
+  - also Yonsei University Programming Contest
+  - 20th Overall
+  - a1st at Yonsei University  
+
+- ICPC 2024 Asia Seoul Regional | Nov 2024  
+  - 40th Place  
+
+- Yonsei University Programming Contest | Nov 2024  
+  - 2nd Place  
 
 
 ## Problem solving
