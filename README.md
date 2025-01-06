@@ -37,7 +37,7 @@
 - ICPC 2024 Seoul Nationalwide Internet Competition | Oct 2024  
   - also Yonsei University Programming Contest
   - 20th Overall
-  - a1st at Yonsei University  
+  - 1st at Yonsei University  
 
 - ICPC 2024 Asia Seoul Regional | Nov 2024  
   - 40th Place  
